@@ -5,7 +5,6 @@ Just snow animation written in Objective C
 
 ## Run
 
-`clang -framework Cocoa -o snow snow.m && ./snow`
-
+`make all`
 
 ![ObjectiveCSnow.png](ObjectiveCSnow.png)
